@@ -1,0 +1,36 @@
+   body {
+    font-family: helvetica;
+    background-color: Pink;
+    background-image: url("https://image.freepik.com/vector-gratis/textura-papel-arrugado_1100-12.jpg");
+   }
+   
+   hr {
+   height:5px;
+   width:75%;
+   background-color: Red;
+   display:block;
+   }
+   
+   
+   h1 {
+    text-align:center;
+    background-color: LightBlue;
+    color:Teal;
+   }
+   
+   h2 {
+    color: Blue;
+    text-align:center;
+    }
+    
+    h3 {
+    color: Black;
+    text-align:center;
+    }
+    
+    
+   
+ 	img {
+   border-radius:20px;
+   border:solid;
+  }
